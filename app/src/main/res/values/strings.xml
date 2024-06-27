@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SurveyDonkey</string>
+    <string name="start">start</string>
+    <string name="q1_favorite_color">¿Cuál es tu color de esfera favorito?</string>
+    <string name="q2_favorite_material">¿Cuál es tu material favorito?</string>
+    <string name="q3_favorite_color">¿Qué color preferirías en la correa del reloj?</string>
+    <string name="q4_favorite_color">Sugerencias para la tienda</string>
+    <string name="end_results">Resultados:</string>
+</resources>
